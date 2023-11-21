@@ -1,4 +1,4 @@
-# Fidelity / overlap calculation of Neural Quantum States with jVMC
+# Fidelity / overlap calculation for Neural Quantum States with jVMC
 ![img.png](img.png)
 ## Code accompanying Tomasz Szoldra, arXiv:XXXX.XXXX
 
