@@ -1,8 +1,9 @@
+[![arXiv](https://img.shields.io/badge/arXiv-2311.XXXXX-b31b1b.svg)](https://arxiv.org/abs/2311.XXXXX)
 # Fidelity / overlap calculation for Neural Quantum States with jVMC
 ![img.png](img.png)
 ## Code accompanying Tomasz Szoldra, arXiv:XXXX.XXXX
 
-### Compatibility: jVMC v. 1.2.4
+### Compatibility: [https://github.com/markusschmitt/vmc_jax/tree/master](jVMC) v. 1.2.4
 
 Main code for overlap calculation is in `overlap.py`. There is also a custom exact sampler in `custom_exact_sampler.py` which supports calculation in
 chunks to avoid out-of-memory errors for large systems in exact overlap calculations.
