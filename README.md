@@ -3,7 +3,7 @@
 ![img.png](img.png)
 ## Code accompanying Tomasz Szoldra, arXiv:XXXX.XXXX
 
-### Compatibility: [https://github.com/markusschmitt/vmc_jax/tree/master](jVMC) v. 1.2.4
+### Compatibility: [jVMC](https://github.com/markusschmitt/vmc_jax/tree/master) v. 1.2.4
 
 Main code for overlap calculation is in `overlap.py`. There is also a custom exact sampler in `custom_exact_sampler.py` which supports calculation in
 chunks to avoid out-of-memory errors for large systems in exact overlap calculations.
